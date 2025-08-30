@@ -14,13 +14,18 @@
 
 ⠀⠀ ⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀![](https://komarev.com/ghpvc/?username=meidemumsancho&color=yellow&label=Passionate+People)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=150&duration=4000&pause=500&color=F7D53A&center=true&width=8300&height=250&lines=My+name+is+Sancho!;And+I%2C+Sancho%2C+declare+upon+my+honor%3A+this+lance+shall+end+that+festering%2C+slothful+dream!)](https://git.io/typing-svg)
+
+___
+
+https://github.com/user-attachments/assets/5228c789-1615-4409-8114-ec7e8a8e62e4
+
 <!-- divider -->
 
 <p align="center">
-<img src="[https://github.com/user-attachments/assets/2a6ccf68-b357-4369-9947-f6fa71c614a5)" />
+<img src="https://github.com/user-attachments/assets/7c0b4d0f-38bf-4776-89b8-9517a008f5ef" />
 </p>
 
-___
 <!-- credits -->
 
 <p align="center">
